@@ -1,0 +1,11 @@
+   64  cd r1
+   65  npm start
+   cd ..
+   71  git clone https://github.com/devcmgm/herokudemo01.git
+   72  cd herokudemo01
+   73  npm start
+   74  cd ..
+   75  cd r1
+   88  git add .
+   89  git commit
+   90  git push
